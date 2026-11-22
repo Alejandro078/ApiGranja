@@ -1,7 +1,3 @@
-# API de gestión de una granja lechera
-
-Solución del taller práctico de Lenguajes de Programación. Se conserva la solución inicial y se completa con las operaciones solicitadas en el enunciado.
-
 ## Requisitos
 
 - Visual Studio 2022 con soporte para .NET 10, o SDK de .NET 10.
